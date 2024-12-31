@@ -4,16 +4,6 @@ Welcome to the **TypeScript OOP Examples** repository! This repo contains practi
 
 ---
 
-## 📝 Table of Contents
-- [Introduction](#introduction)
-- [Key Concepts Covered](#key-concepts-covered)
-- [Examples](#examples)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## 💡 Introduction
 This repository provides a collection of TypeScript code snippets focusing on key OOP principles like **Classes**, **Inheritance**, **Encapsulation**, **Polymorphism**, and **Abstraction**. These examples are designed to help you learn how to structure and organize your TypeScript code effectively using OOP principles.
 
@@ -29,9 +19,7 @@ This repository provides a collection of TypeScript code snippets focusing on ke
 
 ---
 
-## 💻 Examples
-
-### 1. **Classes and Objects**
+## 💻 An Example of a Class and an Object
 
 ```typescript
 class Person {
