@@ -1,3 +1,5 @@
+// In this example, we demonstrate Inheritance, Polymorphism, and Abstraction in a Vehicle System involving Cars, Bikes, and Trucks.
+
 abstract class Vehicle {
     constructor (
         public brand: string,

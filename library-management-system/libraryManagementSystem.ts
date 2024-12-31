@@ -1,3 +1,5 @@
+// In this example, we demonstrate Inheritance, Polymorphism, and Encapsulation in a Library Management System involving Persons, Members, Staff, and a Library.
+
 class Person {
     constructor(public name: string, public email: string) {}
 

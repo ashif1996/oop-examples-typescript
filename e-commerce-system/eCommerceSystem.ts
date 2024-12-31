@@ -1,3 +1,5 @@
+// In this example, we demonstrate Inheritance, Polymorphism, and Encapsulation in the context of an E-commerce System with Products, Categories, and Orders.
+
 class Product {
     constructor(public name: string, public category: string, public price: number) {}
 
