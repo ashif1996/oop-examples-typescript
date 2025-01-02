@@ -1,7 +1,7 @@
 {
   "name": "oop-examples-typescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "A collection of TypeScript OOP examples to practice object-oriented programming concepts such as classes, inheritance, interfaces, and design patterns.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
